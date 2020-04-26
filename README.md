@@ -1,2 +1,2 @@
-# JoCArtistStudio.github.io
+# http://JoCArtistStudio.github.io
 Artist Website
